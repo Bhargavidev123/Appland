@@ -244,7 +244,7 @@ ion-icon[name="logo-facebook"]:hover{
 ion-icon[name="logo-instagram"]:hover{
     color: orangered;
 }
-@media only screen  and (max-width:425px){
+@media screen  and (min-width:475px) and (max-width:425px){
     .div1{
         width: 250% ;
         height:100vh;
@@ -280,7 +280,7 @@ ion-icon[name="logo-instagram"]:hover{
    
     
 }
-@media only screen  and (max-width:1024px){
+@media screen  and (min-width:426px) and (max-width:728px){
     .div1{
         width: 250% ;
         height:100vh;
